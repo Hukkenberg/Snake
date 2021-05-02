@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Hukkenberg\OneDrive\Desktop\Snake\main.cpp(44,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hukkenberg\OneDrive\Desktop\Snake\main.cpp(87,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hukkenberg\OneDrive\Desktop\Snake\main.cpp(180,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hukkenberg\OneDrive\Desktop\Snake\main.cpp(228,10): warning C4101: 'again': unreferenced local variable
+C:\Users\Hukkenberg\OneDrive\Desktop\Snake\main.cpp(242): warning C4715: 'play_again': not all control paths return a value
+  Snake.vcxproj -> C:\Users\Hukkenberg\OneDrive\Desktop\Snake\x64\Debug\Snake.exe
